@@ -1,10 +1,10 @@
 ### Hi there 👋, Welcome to Komal's GitHub page. 
 
-I am a recent graduate in Computer Science from University College Dublin and looking for a full time opportunity as Software Engineer. 👩‍💻
+I am a recent graduate in Computer Science from University College Dublin and looking for a full time opportunity as Software Engineer in Ireland(Willing to relocate to other EU country as well). 👩‍💻
 
 I am proficent in Programming languages such as Python and Java. 
 
-I have previous work experience as Test Engineer at Accenture in India. 
+I have 3+ years of work experience as Test Engineer at Accenture in India. 
 
 You could reach me at https://www.linkedin.com/in/komalsharma27/ if you have any questions.
 
