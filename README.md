@@ -6,8 +6,7 @@ I am proficent in Programming languages such as Python and Java.
 
 I have 3+ years of work experience as a Test Engineering Associate at Accenture in India. 
 
-- 🔭 I’m currently working on making my resume live. Have been wanting to do it from a long time. 
-- 🌱 I’m currently learning to improve my problem solving skills.
+- 🌱 I’m currently working on improving my problem solving skills.
 - 💬 Ask me about - my experience at UCD, My first programming language, Indian food 
 - 📫 How to reach me: You could reach me [LinkedIn](https://www.linkedin.com/in/komalsharma27/) if you have any questions.
 - 😄 Pronouns: She/her
