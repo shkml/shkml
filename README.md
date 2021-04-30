@@ -2,7 +2,7 @@
 
 I am a recent graduate in Computer Science 💻 from University College Dublin, Ireland and looking for a full time opportunity as Software Engineer in Ireland (willing to relocate to other country as well). 👩‍💻
 
-I am proficent in Programming languages such as Python and Java. 
+I am proficient in Programming languages such as Python and Java. 
 
 I have 3+ years of work experience as a Test Engineering Associate at Accenture in India. 
 
