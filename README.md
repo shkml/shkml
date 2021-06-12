@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to Komal's GitHub page. 
 
-I am a recent graduate in Computer Science 💻 from University College Dublin, Ireland and looking for a full time opportunity as Software Engineer in Ireland (willing to relocate to other country as well). 👩‍💻
+I am 2021 graduate in Computer Science 💻 from University College Dublin, Ireland and working as Test Engineer 2 in Mastercard, Dublin, Ireland. 👩‍💻
 
 I am proficient in Programming languages such as Python and Java. 
 
